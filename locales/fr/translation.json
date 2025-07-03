@@ -1,0 +1,59 @@
+{
+  "tabs": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "resume": "CV",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "FMBN Pricing Advisory",
+    "subtitle": "FMBN Pricing Advisory est un cabinet indépendant dédié à la stratégie et à l’organisation Pricing. Je mets à disposition 25 ans d’expérience Pricing dans l’industrie Telecom, afin d’aider d’autres secteurs à structurer et transformer leurs pratiques tarifaires. Je travaille principalement avec des organisations B2B de taille moyenne ou grande, qui ne disposent pas de département Pricing dédié. Mon modèle d’engagement est flexible : CDD, CDI, consulting, missions ponctuelles ou de longue durée.",
+    "contactLinkLabel": "Contactez moi!"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "paragraphs": [
+      "Né le 2 mai 1967 à Caen, Normandie, je suis consultant senior en Pricing avec plus de 25 ans d'expérience spécialisée en stratégie et opérations Pricing dans le secteur Telecom. Après des études en Economie et Commerce International à Caen, Ulster (UK) et Strasbourg, J’ai évolué du rôle d’analyste facturation à des responsabilités en management Pricing.",
+      "En avril 2000, j'ai déménagé en Suisse, vivant à Vevey, canton de Vaud. Je suis français avec permis de résidence suisse C, bilingue français-anglais, allemand Goethe B2.",
+      "J'ai occupé des postes seniors en Pricing chez SITA, gérant des portefeuilles globaux de plusieurs centaines de millions de dollars, animant une équipe Pricing, et implémentant des systèmes Quote-to-Bill complexes (Oracle CPQ et internes). Je développe des stratégies Pricing pragmatiques — value-based, market-based ou cost-plus lorsque cela est pertinent — afin d’optimiser la marge contributive et soutenir une croissance durable, tout en tenant compte des réalités du marché. Je forme et accompagne également les équipes commerciales et produit dans l’utilisation des outils Pricing, la mise en place de cadres de gouvernance et la promotion des bonnes pratiques opérationnelles.",
+      "J’ai contribué aux négociations stratégiques avec des partenaires majeurs du secteur Telecom, notamment Orange, et soutenu des transformations Pricing internationales améliorant efficacité et rentabilité.",
+      "Passionné par le Pricing comme levier de performance, j’accompagne les entreprises B2B moyennes et grandes avec une approche pragmatique, orientée solutions et adaptée à leurs enjeux.",
+      "Hors du travail, je nourris un vif intérêt pour l’histoire et la géopolitique, ce qui enrichit ma réflexion stratégique."
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      "Stratégie Pricing  (value-based, cost-based, discounting, ...)",
+      "Pricing Operationnel & Gouvernance (seuils, règles d'approbation, exécution CPQ)",
+      "Process Quote to Bill",
+      "Pricing nouveaux produits",
+      "Digitalisation Pricing",
+      "Amélioration des marges de contributions",
+      "Formation aux process et outils pour équipes commerciales & produit",
+      "Accompagnement lors de transformations Pricing ou implémentations d’outils"
+    ]
+  },
+  "resume": {
+    "title": "Resume Highlights",
+    "company": "SITA – Genève",
+    "positions": [
+      { "title": "Senior Manager Pricing Strategy and Operations", "dates": "June 2020 - June 2024" },
+      { "title": "Senior Manager Pricing Operations", "dates": "Jan 2016 - May 2020" },
+      { "title": "Senior Manager Standard Pricing", "dates": "Mar 2008 - Dec 2015" },
+      { "title": "Manager Pricing – Standard Pricing", "dates": "Nov 2003 - Feb 2008" },
+      { "title": "Commercial Manager", "dates": "Apr 2000 - Oct 2003" },
+      { "title": "Billing Analyst", "dates": "Jan 1995 - Mar 2000" }
+    ],
+    "earlierRolesLabel": "Earlier Roles:",
+    "earlierRoles": "Société Générale (1994), APEC (1994), Formateur en gestion (1994), 64ème Régiment d'Infanterie (1991–1992)"
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "cfomb@hotmail.com",
+    "phone": "+41 78 642 27 10",
+    "linkedinUrl": "https://www.linkedin.com/in/christophefombonne/",
+    "linkedinLabel": "LinkedIn"
+  }
+}

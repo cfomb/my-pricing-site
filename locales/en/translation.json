@@ -1,0 +1,59 @@
+{
+  "tabs": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "FMBN Pricing Advisory",
+    "subtitle": "FMBN Pricing Advisory is an independent pricing consultancy focused on Pricing strategy and organization. I bring 25 years of Pricing experience in the Telecom industry to help companies from other sectors structure and transform their Pricing practice. I typically work with midsize and large B2B organizations with no dedicated Pricing department. My engagement approach adapts to your needs—whether it’s fixed-term contracts, permanent employment, consulting, or short- and long-term projects.",
+    "contactLinkLabel": "Contact me!"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraphs": [
+      "Born on May 2, 1967, in Caen, Normandy, I am a seasoned Pricing Consultant with over 25 years of professional experience specializing in Pricing Strategy and Operations within the Telecom industry. After completing my studies in Economics and International Business at the universities of Caen, Ulster (UK), and Strasbourg, I embarked on a career that spans roles from billing analyst to taking on managerial responsibilities in Pricing.",
+      "In April 2000, I relocated to Switzerland and currently live in Vevey, Canton of Vaud. As a French national holding a Swiss resident permit (C), I am fluent in French and English, with conversational skills in German (Goethe B2).",
+      "Throughout my career, I have held senior pricing leadership roles at SITA, where I managed global pricing portfolios worth hundreds of millions of dollars, led pricing strategy and operations teams across multiple countries, and implemented complex Quote-to-Bill systems using both Oracle CPQ and in-house developed tools. I develop pragmatic pricing strategies—value-based, market-based, or cost-plus when appropriate—to optimize contribution margins and support sustainable growth, while taking market realities into account. I also train and support sales and product teams in using pricing tools, implementing governance frameworks, and promoting best operational practices.",
+      "I contributed to strategic negotiations with key partners in the Telecom sector, including Orange, and supported international pricing transformations that improved operational efficiency and profitability.",
+      "Passionate about pricing as a lever to drive business performance, I work with mid-sized and large B2B organizations to build and strengthen their pricing foundations, adapting strategies to their unique markets, offerings, and maturity levels. I bring a hands-on, results-driven approach to every project.",
+      "Outside of work, I have a deep interest in history and geopolitics, which enriches my strategic thinking and global perspective."
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      "Pricing Strategy (value-based, cost-based, discounting, ...)",
+      "Pricing Operations & Governance (thresholds, approval rules, CPQ execution)",
+      "Quote to Bill Processes",
+      "New Product Pricing",
+      "Pricing Digitalization",
+      "Contribution Margin improvement",
+      "Processes and Tools training for sales & product teams",
+      "Transition support during pricing transformation or tool implementation"
+    ]
+  },
+  "resume": {
+    "title": "Resume Highlights",
+    "company": "SITA – Geneva",
+    "positions": [
+      { "title": "Senior Manager Pricing Strategy and Operations", "dates": "June 2020 - June 2024" },
+      { "title": "Senior Manager Pricing Operations", "dates": "Jan 2016 - May 2020" },
+      { "title": "Senior Manager Standard Pricing", "dates": "Mar 2008 - Dec 2015" },
+      { "title": "Manager Pricing – Standard Pricing", "dates": "Nov 2003 - Feb 2008" },
+      { "title": "Commercial Manager", "dates": "Apr 2000 - Oct 2003" },
+      { "title": "Billing Analyst", "dates": "Jan 1995 - Mar 2000" }
+    ],
+    "earlierRolesLabel": "Earlier Roles:",
+    "earlierRoles": "Société Générale (1994), APEC (1994), Business Management Trainer (1994), 64th Infantry Regiment (1991–1992)"
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "cfomb@hotmail.com",
+    "phone": "+41 78 642 27 10",
+    "linkedinUrl": "https://www.linkedin.com/in/christophefombonne/",
+    "linkedinLabel": "LinkedIn"
+  }
+}
